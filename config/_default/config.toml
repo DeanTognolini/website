@@ -6,7 +6,7 @@ defaultContentLanguage = "en" # Default language to use (if you setup multilingu
 defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
 hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
 
-summaryLength = 70 # The length of a post description on a list page.
+summaryLength = 30 # The length of a post description on a list page.
 buildFuture = true # if true, we can use future date for talks page
 
 copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
