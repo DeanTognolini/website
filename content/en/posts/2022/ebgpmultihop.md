@@ -1,5 +1,5 @@
 ---
-title: "eBGP Multihop"
+title: "eBGP Multihop Explained"
 
 date: 2022-12-09
 url: /ebgpmultihop/
