@@ -78,10 +78,11 @@ R1#show eigrp address-family ipv4 topology 3.3.3.3/32 | section 10.1.12.2
 R1#sh ip route eigrp | section 3.3.3.3
 D        3.3.3.3 [90/130816] via 10.1.13.3, 00:04:34, GigabitEthernet0/2
       10.0.0.0/8 is variably subnetted, 5 subnets, 2 masks
+
+```
 RD of the route to 3.3.3.3/32 from R2 = 130816
 FD of the S path to 3.3.3.3/32 on R1 = 130816
 RD < FD = False
-```
 
 The route does not pass the Feasibility Condition test and is not installed into the RIB as a FS.
 

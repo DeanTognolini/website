@@ -13,9 +13,9 @@ draft: false
 By default EIGRP supports and is configured to use equal cost multi-pathing (ECMP). EIGRP also supports unequal cost multi-pathing (UCMP) but must be configured to use it.
 
 # Equal Cost Multi-Pathing
-First lets look at ECMP and how it behaves by default in EIGRP. We will be focusing on R4 and it’s routing towards the loopback interface on R1 with an IP address of 10.0.0.1/32. R4 has two EIGRP neighbours, R2 and R3, both of it’s up-links have link delay values of 10.
+First lets look at ECMP and how it behaves by default in EIGRP. We will be focusing on R4 and it’s routing towards the loopback interface on R1 with an IP address of 10.0.0.1/32. R4 has two EIGRP neighbours, R2 and R3, both of itss up-links have link delay values of 10.
 
-![eigrp-ecmp-and-ucmp.webp](/images/2022/eigrp-ecmp-and-ucmp.webp)  
+![eigrp-ecmp-and-ucmp.webp](/images/2022/eigrp-ecmp-and-ucmp.webp)
 
 If we check the EIGRP topology table on R4 for the 10.0.0.1/32 prefix we can see that we have two routes, one through R2 and the other through R3, notice that both of these routes have equal Feasible Distance (FD) values and EIGRP has assigned both of these routes as Successors (S).
 

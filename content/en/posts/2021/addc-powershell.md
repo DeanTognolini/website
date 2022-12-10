@@ -1,7 +1,7 @@
 ---
 title: "Active Directory Domain Controller Deployment with Powershell"
 
-date: 2022-22-10
+date: 2021-10-22
 url: /addc-powershell/
 image: images/2021-thumbs/addc-powershell.webp
 categories:
