@@ -24,19 +24,16 @@ For inbound communications the traffic is addressed to the host systems IP addre
 
 Podman creates a bridge network by default, you can see this network with the `podman network ls` command, and `podman network inspect <network_name>` for more details.
 
-create drawings
+![podman-networking-bridge](/images/2022/podman-networking-bridge.png)
 
 ## macvlan
-macvlan allows a container access to a physical network interface on the host, which can be configured with multiple sub-interfaces with its own IP and MAC address. This allows the container to appear as if it is direct connected to the same network as the host system.
+macvlan allows a container access to a physical network interface on the host, which can be configured with multiple sub-interfaces with its own IP and MAC address. This allows the container to appear as if it is directly connected to the same network as the host system.
 
 Outside hosts will be able to communicate directly with the containers IP address.
 
-*create drawings*
+![podman-networking-macvlan](/images/2022/podman-networking-macvlan.png)
 
 ## slirp4netns
 slirp4netns is similar to a bridge network in the sense that containers can communicate with outside hosts. slirp4netns is used by containers built by unprivileged users that are not allow to create network interfaces on the host system. Containers using slirp4netns are isolated and cannot communicate with other containers on the system.
 
 Containers must use ports 1024 through 65535 as ports below 1024 need root privileges to provide access.
-
-*create drawings*
-
