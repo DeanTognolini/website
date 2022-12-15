@@ -19,7 +19,7 @@ In this deployment I have two VLANs:
 VLAN100 is for device management such as the AP BVI interfaces.
 VLAN200 is for the WGB-client connected behind WGB01.
 
-There is no switch behing the WGB, only a single directly connected ethernet client. The *workgroup-bridge client-vlan 200* command forces all WGB-clients onto VLAN200. If you had a dot1Q capable switch connected to the WGB you would not need this command, and instead use dot1Q tagged frames into to the WGB.
+There is no switch behind the WGB, only a single directly connected ethernet client. The *workgroup-bridge client-vlan 200* command forces all WGB-clients onto VLAN200. If you had a dot1Q capable switch connected to the WGB you would not need this command, and instead use dot1Q tagged frames.
 
 ![cisco-wgb-config1.png](/images/2022/cisco-wgb-config1.png)
 
