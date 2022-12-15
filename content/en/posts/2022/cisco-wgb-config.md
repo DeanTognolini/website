@@ -1,5 +1,5 @@
 ---
-title: "Cisco Work Group Bridge Multiple VLAN Configuration"
+title: "Cisco WGB Multiple VLAN Configuration"
 
 date: 2022-12-15
 url: /cisco-wgb-config/
