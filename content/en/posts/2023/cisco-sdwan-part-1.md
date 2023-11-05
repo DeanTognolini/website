@@ -1,6 +1,6 @@
 ---
 title: "Cisco SD-WAN Part 1"
-
+image: images/2023-thumbs/cisco-sdwan-part-1.png
 date: 2023-11-05
 url: /cisco-sdwan-part-1/
 categories:
