@@ -20,15 +20,13 @@ Software-Defined Wide Area Network (SD-WAN), is a networking approach that enhan
 
 I enjoyed this analogy so thought I'd include it here.
 
-*Me: 
-Tell me why we need SD-WAN and explain it like a student!
+*Me: Tell me why we need SD-WAN and explain it like a student!*
 
-ChatGPT:
-Imagine you're playing a video game where you have to manage a bunch of roads connecting different cities—this is kind of like what SD-WAN does for computer networks. In a traditional network (without SD-WAN), you might have a single road to get information from one city to another, and if there's a traffic jam or a roadblock, your data gets stuck or delayed.
+*ChatGPT: Imagine you're playing a video game where you have to manage a bunch of roads connecting different cities—this is kind of like what SD-WAN does for computer networks. In a traditional network (without SD-WAN), you might have a single road to get information from one city to another, and if there's a traffic jam or a roadblock, your data gets stuck or delayed.*
 
-Now, with SD-WAN, it's like having a super smart GPS that can instantly reroute traffic, finding the best path for data to travel based on current conditions, like avoiding roadblocks (network congestion) or taking shortcuts (faster pathways). It makes sure that important information, like a live video call or a big file you're downloading, doesn't get stuck in a traffic jam.
+*Now, with SD-WAN, it's like having a super smart GPS that can instantly reroute traffic, finding the best path for data to travel based on current conditions, like avoiding roadblocks (network congestion) or taking shortcuts (faster pathways). It makes sure that important information, like a live video call or a big file you're downloading, doesn't get stuck in a traffic jam.*
 
-For businesses, this is super important because it keeps their data moving smoothly and quickly across long distances, between different offices or even cloud services, and it helps save money because they don't have to rely on expensive, high-maintenance roads (traditional network lines). Plus, they can easily change routes if they need to without having to build new roads from scratch.*
+*For businesses, this is super important because it keeps their data moving smoothly and quickly across long distances, between different offices or even cloud services, and it helps save money because they don't have to rely on expensive, high-maintenance roads (traditional network lines). Plus, they can easily change routes if they need to without having to build new roads from scratch.*
 
 # Cisco SD-WAN Infrastructure Components
 
