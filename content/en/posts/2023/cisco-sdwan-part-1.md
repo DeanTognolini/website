@@ -30,6 +30,8 @@ I enjoyed this analogy so thought I'd include it here.
 
 # Cisco SD-WAN Infrastructure Components
 
+![cisco-sdwan-part-1.png](/images/2023/cisco-sdwan-part-1.png)
+
 ## Edge Devices
 These are the endpoints of the SD-WAN fabric, they are the physical or virtual routers, located at sites, that manage the traffic entering and existing the SD-WAN. Cisco's offerings include both the Cisco vEdge and Cisco IOS XE Catalyst SD-WAN routers.
 
