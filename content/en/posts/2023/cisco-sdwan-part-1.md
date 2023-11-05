@@ -11,7 +11,7 @@ tags:
 draft: false
 -----
 
-I will be using this series of posts as an aide for teaching myself about Cisco SD-WAN. These posts are not meant to be used as a tutotial or any kind of learning guide for others and therefore may not following logical steps or may be missing crucial information!
+I will be using this series of posts as an aide for teaching myself about Cisco SD-WAN. These posts are not meant to be used as a tutorial or any kind of learning guide for others and therefore may not follow logical steps or may be missing crucial information!
 
 # What is SD-WAN?
 Software-Defined Wide Area Network (SD-WAN), is a networking approach that enhances the management and operation of WAN connections by decoupling the networking hardware from its control mechanism, using software for intelligent path control, optimizing application performance, and increasing agility while reducing costs compared to traditional WAN infrastructure. It allows for the dynamic routing of traffic across the most efficient and reliable pathways.
