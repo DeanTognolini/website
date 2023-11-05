@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on Dean Tognolini Tech</title>
+    <link>https://dtog.au/tags/containers/</link>
+    <description>Recent content in Containers on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dtog.au/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podman Checkpointing</title>
+      <link>https://dtog.au/podman-checkpointing/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtog.au/podman-checkpointing/</guid>
+      <description>&amp;ndash;
+What is Checkpointing? Checkpointing stops the container and freezes it in the current running state that can be restored at a later point in time.
+Checkpointing currently only works with rootful containers.</description>
+    </item>
+    
+    <item>
+      <title>Podman Networking</title>
+      <link>https://dtog.au/podman-networking/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtog.au/podman-networking/</guid>
+      <description>&amp;ndash;
+Podman Network Types There are three main networking types in Podman: bridge, macvlan, and slirp4netns.
+bridge The bridge network type is the default.
+Containers can initiate communications to hosts outside of the host system, i.</description>
+    </item>
+    
+    <item>
+      <title>Podman Basics</title>
+      <link>https://dtog.au/podman-basics/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtog.au/podman-basics/</guid>
+      <description>&amp;ndash;
+Installing Podman If you need to install Podman from scratch see https://podman.io/getting-started/installation.
+My host system is running Alma Linux with podman, cockpit and cockpit-podman pre-installed, you can enable Podman directly from the Cockpit webGUI in the &amp;ldquo;Podman containers&amp;rdquo; menu.</description>
+    </item>
+    
+  </channel>
+</rss>

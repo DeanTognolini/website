@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dean Tognolini Tech</title>
+    <link>https://dtog.au/en/tags/</link>
+    <description>Recent content in Tags on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dtog.au/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cisco</title>
+      <link>https://dtog.au/en/tags/cisco/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/cisco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NetFlow</title>
+      <link>https://dtog.au/en/tags/netflow/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/netflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wireless</title>
+      <link>https://dtog.au/en/tags/wireless/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/wireless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Containers</title>
+      <link>https://dtog.au/en/tags/containers/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podman</title>
+      <link>https://dtog.au/en/tags/podman/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/podman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BGP</title>
+      <link>https://dtog.au/en/tags/bgp/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/bgp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Routing</title>
+      <link>https://dtog.au/en/tags/routing/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/routing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eigrp</title>
+      <link>https://dtog.au/en/tags/eigrp/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/eigrp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>activedirectory</title>
+      <link>https://dtog.au/en/tags/activedirectory/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/activedirectory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VLAN</title>
+      <link>https://dtog.au/en/tags/vlan/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/vlan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNMPv3</title>
+      <link>https://dtog.au/en/tags/snmpv3/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/en/tags/snmpv3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

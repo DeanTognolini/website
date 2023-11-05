@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cisco on Dean Tognolini Tech</title>
+    <link>https://dtog.au/en/tags/cisco/</link>
+    <description>Recent content in Cisco on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dtog.au/en/tags/cisco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring Flexible NetFlow on a Cisco Device</title>
+      <link>https://dtog.au/configuring-flexible-netflow-on-a-cisco-device/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-flexible-netflow-on-a-cisco-device/</guid>
+      <description>&amp;ndash;
+Flexible NetFlow is as the name states, a more flexible version of NetFlow. Flexible NetFlow gives us more granular control over the traffic flows that we want to see and what information we want to pull out of those flows.</description>
+    </item>
+    <item>
+      <title>Configuring NetFlow With Solarwinds Network Traffic Analyzer</title>
+      <link>https://dtog.au/configuring-netflow-with-solarwinds-network-traffic-analyzer/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-netflow-with-solarwinds-network-traffic-analyzer/</guid>
+      <description>&amp;ndash;
+NetFlow is used to collect information about traffic flows in your environment, this information is exported to a NetFlow analyzer which converts the raw data into human readable formats such as graphs, charts and tables.</description>
+    </item>
+    <item>
+      <title>Configuring Traditional NetFlow on a Cisco Device</title>
+      <link>https://dtog.au/configuring-traditional-netflow-on-a-cisco-device/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-traditional-netflow-on-a-cisco-device/</guid>
+      <description>&amp;ndash;
+NetFlow is used to collect information about traffic flows in your environment, this information can be exported to a NetFlow analyzer which converts the raw data into human readable formats such as graphs, charts and tables.</description>
+    </item>
+    <item>
+      <title>Cisco WGB Bridging Table Issue</title>
+      <link>https://dtog.au/cisco-wgb-bridge-issue/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/cisco-wgb-bridge-issue/</guid>
+      <description>&amp;ndash;
+The Issue I had an issue on a recent project where I had a WGB-client directly connected to Gi0 on a Cisco IW3702 WGB that I wanted to be in VLAN200 so I configured the workgroup-bridge client-vlan 200 command, therefore the MAC address for this WGB-client should be in bridge-group 200 (BG200).</description>
+    </item>
+    <item>
+      <title>Cisco WGB Debugging Data Rates</title>
+      <link>https://dtog.au/cisco-wgb-debug-rates/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/cisco-wgb-debug-rates/</guid>
+      <description>&amp;ndash;
+debug dot11 &amp;lt;radio_interface&amp;gt; trace print rates is a pretty cool command you can use to show debugging information related to the dynamic changing of WIFI MCS rates.
+Below is an output from one of my lab APs while running this debug, the drop to M6 and M7 data rates is when I put a metal pot over the top of one of the APs!</description>
+    </item>
+    <item>
+      <title>Cisco WGB Debugging Uplink</title>
+      <link>https://dtog.au/cisco-wgb-debug-uplink/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/cisco-wgb-debug-uplink/</guid>
+      <description>&amp;ndash;
+The debug dot11 &amp;lt;radio_interface&amp;gt; trace print uplink command can be used to see detailed information on what the radio interface is doing while looking for a parent.
+The below shows the output from a WGB client AP when it lost its parent AP.</description>
+    </item>
+    <item>
+      <title>Cisco WGB Multiple VLAN Configuration</title>
+      <link>https://dtog.au/cisco-wgb-config/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/cisco-wgb-config/</guid>
+      <description>&amp;ndash;
+These Cisco WGB configurations enable support for WGB-clients in different VLANs.
+In this deployment I have two VLANs:
+VLAN100 is for device management such as the AP BVI interfaces.</description>
+    </item>
+    <item>
+      <title>SNMPv3 on a Cisco Device</title>
+      <link>https://dtog.au/snmpv3-cisco-device/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/snmpv3-cisco-device/</guid>
+      <description>&amp;ndash;
+Simple Network Management Protocol version 3 introduces much needed security features to the SNMP protocol, SNMPv1 and v2c do not support authentication or encryption of SNMP data. SNMPv3 introduces authentication based on the HMAC-MD5 and HMAC-SHA algorithms, and encryption using AES algorithms (weaker algorithms are also supported).</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eigrp on Dean Tognolini Tech</title>
+    <link>https://dtog.au/en/tags/eigrp/</link>
+    <description>Recent content in eigrp on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dtog.au/en/tags/eigrp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EIGRP Multipathing</title>
+      <link>https://dtog.au/eigrp-ecmp-and-ucmp/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/eigrp-ecmp-and-ucmp/</guid>
+      <description>&amp;ndash;
+By default EIGRP supports and is configured to use equal cost multi-pathing (ECMP). EIGRP also supports unequal cost multi-pathing (UCMP) but must be configured to use it.
+Equal Cost Multi-Pathing First lets look at ECMP and how it behaves by default in EIGRP.</description>
+    </item>
+    <item>
+      <title>EIGRP Path Selection</title>
+      <link>https://dtog.au/eigrp-path-selection/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/eigrp-path-selection/</guid>
+      <description>&amp;ndash;
+Terminology Successor (S) – path with the lowest cost to the prefix. Feasible Successor (FS) – backup paths for S. Reported Distance (RD) – a neighbours distance to the prefix.</description>
+    </item>
+    <item>
+      <title>EIGRP Stub Routing</title>
+      <link>https://dtog.au/eigrp-stub-routing/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/eigrp-stub-routing/</guid>
+      <description>&amp;ndash;
+In the interest of conserving local router resources and alleviating network load, EIGRP supports stub routing. A stub router is a router that should not be used as a transit router, meaning that the stub router does not have any information about other EIGRP routers behind it and does not need to advertise anything other than locally connected and summary routes to its neighbours.</description>
+    </item>
+  </channel>
+</rss>

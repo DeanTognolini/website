@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NetFlow on Dean Tognolini Tech</title>
+    <link>https://dtog.au/en/tags/netflow/</link>
+    <description>Recent content in NetFlow on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dtog.au/en/tags/netflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring Flexible NetFlow on a Cisco Device</title>
+      <link>https://dtog.au/configuring-flexible-netflow-on-a-cisco-device/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-flexible-netflow-on-a-cisco-device/</guid>
+      <description>&amp;ndash;
+Flexible NetFlow is as the name states, a more flexible version of NetFlow. Flexible NetFlow gives us more granular control over the traffic flows that we want to see and what information we want to pull out of those flows.</description>
+    </item>
+    <item>
+      <title>Configuring NetFlow With Solarwinds Network Traffic Analyzer</title>
+      <link>https://dtog.au/configuring-netflow-with-solarwinds-network-traffic-analyzer/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-netflow-with-solarwinds-network-traffic-analyzer/</guid>
+      <description>&amp;ndash;
+NetFlow is used to collect information about traffic flows in your environment, this information is exported to a NetFlow analyzer which converts the raw data into human readable formats such as graphs, charts and tables.</description>
+    </item>
+    <item>
+      <title>Configuring Traditional NetFlow on a Cisco Device</title>
+      <link>https://dtog.au/configuring-traditional-netflow-on-a-cisco-device/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://dtog.au/configuring-traditional-netflow-on-a-cisco-device/</guid>
+      <description>&amp;ndash;
+NetFlow is used to collect information about traffic flows in your environment, this information can be exported to a NetFlow analyzer which converts the raw data into human readable formats such as graphs, charts and tables.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Dean Tognolini Tech</title>
+    <link>https://dtog.au/categories/windows/</link>
+    <description>Recent content in Windows on Dean Tognolini Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dtog.au/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active Directory Domain Controller Deployment with Powershell</title>
+      <link>https://dtog.au/addc-powershell/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtog.au/addc-powershell/</guid>
+      <description>&amp;ndash;
+Rename the Server 1 2 3 PS C:\Users\Administrator&amp;gt; Rename-Computer XOGS-E-DC01 WARNING: The changes will take effect after you restart the computer XOGS-DC01. PS C:\Users\Administrator&amp;gt; Restart-Computer Wait for the server to reboot.</description>
+    </item>
+    
+    <item>
+      <title>A Practical Example of the Native VLAN</title>
+      <link>https://dtog.au/NativeVLAN/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtog.au/NativeVLAN/</guid>
+      <description>&amp;ndash;
+Summary On ingress frames (frames coming into the switchport): If the frame does not have a VLAN tag, it will be tagged with the configured Native VLAN on the switchport.</description>
+    </item>
+    
+  </channel>
+</rss>
