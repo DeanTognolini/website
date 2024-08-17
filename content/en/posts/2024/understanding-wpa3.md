@@ -1,13 +1,11 @@
 ---
-title: "Cisco SD-WAN Part 1"
-image: images/2023-thumbs/cisco-sdwan-part-1.png
+title: "Understanding WPA3: The Future of Wi-Fi Security"
 date: 2023-11-05
-url: /cisco-sdwan-part-1/
+url: /understanding-wpa3/
 categories:
   - Networking
 tags:
-  - Cisco
-  - SD-WAN
+  - Wireless
 draft: false
 -----
 
