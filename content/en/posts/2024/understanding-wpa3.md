@@ -33,13 +33,13 @@ One of the challenges in adopting WPA3 is ensuring compatibility with existing d
 
 However, Transition Mode comes with security trade-offs. While WPA3 devices enjoy improved security, WPA2 devices remain vulnerable to attacks such as offline dictionary attacks. Additionally, networks in Transition Mode can be susceptible to downgrade attacks, where attackers force devices to connect using the less secure WPA2 protocol.
 
+### **The Transition Disable Feature**
+
+The Transition Disable feature in WPA3 is a crucial mechanism designed to enhance network security by preventing downgrade attacks. These attacks can occur when a client device is tricked into using a less secure protocol, such as WPA2, even when WPA3 is available. This mechanism prevents downgrade attacks by ensuring devices connect using WPA3 only when available. It signals devices to update their network profiles, avoiding the use of less secure protocols and maintaining the integrity of the network's security posture.
+
 ### **WPA3-SAE Only Mode: Ensuring Maximum Security**
 
 For networks that can fully upgrade to WPA3, the WPA3-SAE Only Mode offers the best security. This mode requires all devices to support WPA3, eliminating the risks associated with WPA2 and ensuring that all connections benefit from the enhanced security features of WPA3.
-
-### **The Transition Disable Feature**
-
-To further enhance security, WPA3 introduces the Transition Disable feature. This mechanism prevents downgrade attacks by ensuring devices connect using WPA3 only when available. It signals devices to update their network profiles, avoiding the use of less secure protocols and maintaining the integrity of the network's security posture.
 
 ### **Conclusion**
 
