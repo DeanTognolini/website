@@ -9,7 +9,7 @@ tags:
 draft: false
 -----
 
-Disclaimer: This post was written using AI!
+Disclaimer: This post was written with the help of AI!
 
 ## Understanding WPA3: The Future of Wi-Fi Security
 
