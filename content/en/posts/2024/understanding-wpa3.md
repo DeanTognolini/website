@@ -1,6 +1,6 @@
 ---
 title: "Understanding WPA3: The Future of Wi-Fi Security"
-date: 2023-11-05
+date: 2024-08-17
 url: /understanding-wpa3/
 categories:
   - Networking
